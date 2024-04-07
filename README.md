@@ -1,6 +1,6 @@
 <div align="center">
 <br/>
-<img src="https://raw.githubusercontent.com/brcarisa/brcarisa/master/java-coder.gif" alt="Here is a little bit about me!">
+<img src="https://raw.githubusercontent.com/brcarisa/brcarisa/master/giphy.gif" alt="Here is a little bit about me!">
 
 </div>
 

@@ -16,11 +16,11 @@
 
 **About me**
 
-- :telescope: I'm currently learning Java in [School 21](https://21-school.ru/)
+- :telescope: Учу Java и все что с ней связано в [School 21](https://21-school.ru/)
 
-- :seedling: I speak English and Russian.
+- :seedling: Владею русскиим and English(B1).
 
-- :zap: In my free time, I read tech articles.
+- :zap: В свободное время играю в баскетбол и читаю документацию.
 
 <hr>
 
